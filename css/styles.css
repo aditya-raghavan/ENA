@@ -1,0 +1,167 @@
+*{
+	box-sizing: border-box;
+}
+
+body{
+	background-color: #222831;
+	font-family: 'Quicksand', sans-serif;
+
+	padding-bottom: 0px;
+	color: white;
+	text-decoration: none;
+}
+
+#headingnav{
+	background-color: black;
+	border: none;
+	border-radius: 0;
+
+
+}
+
+
+
+a.navbar-brand span{
+	color: white;
+	font-weight: bold;
+
+}
+
+a.navbar-brand span{
+	color: white;
+	font-weight: bold;
+
+}
+
+#myNavbar span{
+	color: white;
+}
+
+#welcomediv{
+	background-color: black;
+	margin-top: 60px;
+}
+
+div.container div.jumbotron{
+	margin-top: 0px;
+	height: 320px;
+	background-color: black;
+	padding-left: 0px;
+}
+
+.jumbotron .h1, .jumbotron h1 {
+    color: white;
+
+}
+
+.jumbotron>div{
+	margin-top: auto;
+	margin-bottom: auto;
+	margin-left: 0px;
+}
+
+@media (max-width: 768px){
+	.jumbotron{
+		height: 250px;
+	}
+}
+
+h2{
+	font-size: 40px;
+}
+
+
+
+h2 span{
+	
+	font-style: italic;
+}
+
+#aboutus{
+	margin-top: 50px;
+	border-radius: 5px;
+	background: rgb(88,88,88,0.5);
+	padding-left: 60px;
+	padding-right: 60px;
+	padding-top: 30px;
+	padding-bottom: 40px;
+}
+
+h3{
+	margin-top: 0px;
+	text-align: center;
+	font-size: 40px;
+
+}
+
+#aboutus section{
+	margin-top: 30px;
+	font-size: 20px;
+}
+
+.blurbg{
+
+	margin: 20px;
+	height: 300px;
+	border-radius: 5px;
+	background: rgb(88,88,88,0.5);
+	padding-left: 60px;
+	padding-right: 60px;
+	padding-top: 30px;
+	padding-bottom: 40px;
+}
+
+#products p{
+	margin-top: 30px;
+	font-size: 20px;
+}
+
+.container a{
+	text-decoration: none;
+	color: white;
+}
+
+#products:hover{
+	border: 2px solid white;
+	border-radius: 5px;
+}
+
+@media (min-width: 992px) and (max-width: 1199px){
+	.blurbg{
+		height: 330px;
+	}
+}
+
+@media (max-width: 515px){
+	.blurbg{
+		height: 400px;
+	}
+}
+
+footer{
+	background-color: black;
+	margin-top: 50px;
+}
+
+
+
+footer div p{
+	
+	text-align: center;
+	color: white;
+
+}
+
+#footername{
+	margin-top: 15px;
+}
+
+.blurbg{
+	margin-top: 50px;
+	border-radius: 5px;
+	background: rgb(88,88,88,0.5);
+	padding-left: 60px;
+	padding-right: 60px;
+	padding-top: 30px;
+	padding-bottom: 40px;
+}
