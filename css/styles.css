@@ -150,6 +150,20 @@ h3{
 	}
 }
 
+@media (max-width: 421px){
+	#products{
+		padding-left: 10px;
+		padding-right: 10px;
+
+	}
+}
+
+@media (min-width: 515px) and (max-width: 603px){
+	.blurbg{
+		height: 450px;
+	}
+}
+
 footer{
 	background-color: black;
 	margin-top: 50px;
