@@ -138,6 +138,18 @@ h3{
 	}
 }
 
+@media (max-width: 472px){
+	h3{
+		font-size: 30px;
+	}
+	#products p{
+		font-size: 15px;
+	}
+	#aboutus section{
+		font-size: 15px;
+	}
+}
+
 footer{
 	background-color: black;
 	margin-top: 50px;
